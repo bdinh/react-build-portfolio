@@ -42,6 +42,7 @@
     "jquery": "^3.3.1",
     "popper.js": "^1.12.9",
     "react-fontawesome": "^1.6.1",
-    "tether": "^1.4.3"
+    "tether": "^1.4.3",
+    "webpack": "^3.10.0"
   }
 }

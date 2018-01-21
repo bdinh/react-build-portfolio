@@ -69,7 +69,7 @@ class ProfileImage extends Component {
 }
 
 ProfileImage.propTypes = {
-  profileImagePath: PropTypes.string,
+  profileImagePath: PropTypes.string
 };
 
 
@@ -96,5 +96,5 @@ class ProfileText extends Component {
 
 ProfileText.propTypes = {
   aboutHeader: PropTypes.string,
-  aboutText: PropTypes.string,
+  aboutText: PropTypes.string
 };
